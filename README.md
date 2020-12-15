@@ -1,4 +1,4 @@
-# Optimization of memory acceessing
+# Optimization of memory accessing
 This simple program written on C# demonstrates how dramaticaly worse your code can perform if you not considering sequential locality.
 
 ### Before optimization
